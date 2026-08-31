@@ -37,6 +37,16 @@ module.exports = {
         gray_600: "#4D4D4D",
         gray_700: "#333333",
         gray_800: "#1A1A1A",
+      },
+      fontSize: {
+        h1: ["40px", { lineHeight: "48px" }],
+        h2: ["32px", { lineHeight: "38.4px" }],
+        h3: ["24px", { lineHeight: "28.8px" }],
+        h4: ["20px", { lineHeight: "24px" }],
+
+        body1: ["16px", { lineHeight: "24px" }],
+        body2: ["14px", { lineHeight: "20px" }],
+        body3: ["12px", { lineHeight: "16px" }],
       }
     },
   },
